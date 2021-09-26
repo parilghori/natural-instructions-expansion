@@ -491,6 +491,5 @@ Name | Summary | Category
 `task582_naturalquestion_answer_generation` | You are given an open-domain question and return an answer based on factual information | Answer Generation
 `task615_moviesqa_answer_generation` | Given a question from an open movie database, generate an answer for that. | Answer Generation
 `task561_spl_translation_en_bg` | Language Translate of Dataset Card for ALT from English language to Bengali language while preserving named entities in the original language | Language Translation
-`task616_smcalflow_classification` | Classify given utterance into user or agent | Classification
-`task617_smcalflow_sentence_generation`| Given a agents' reply, generate a users' utterance | Sentence Generation
-`task618_smcalflow_sentence_generation` | Given a user utterance, generate agents' utterance | Sentence Generation
+`task619_webquestions_answer_generation` | Given a question and URL, generate an answer | Answer Generation
+`task620_webquestion_question_genreation` | Given an answer and URL, generate a question | Question Generation
